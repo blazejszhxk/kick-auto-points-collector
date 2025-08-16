@@ -8,7 +8,7 @@
     "livestream_inactive": 300,
     "error_wait": 180
   },
-  "authorization": "Bearer ...",
+  "authorization": "Bearer TWÓJ_TOKEN",
   "messages": [
     "[emote:1730752:emojiAngel]",
     "[emote:1730753:emojiAngry]",
@@ -79,4 +79,5 @@
     "[emote:1730839:emojiYuh]",
     "[emote:1730840:emojiYum]"
   ]
+
 }
