@@ -33,8 +33,9 @@ W pliku `config.json` ustaw pod swoje preferencje bądź zachowaj domyślne usta
 
 ## 🚀 Jak Użyć
 
-1. Zainstaluj zależności: `pip install cloudscraper`
-2. Uruchom skrypt: `python main.py`
+1. Pobierz Pythona: [Link tutaj](https://www.python.org/downloads/)
+2. Zainstaluj zależności: `pip install cloudscraper`
+3. Uruchom skrypt: `python main.py`
 
 ## 📝 Jak to Działa
 
@@ -43,5 +44,6 @@ W pliku `config.json` ustaw pod swoje preferencje bądź zachowaj domyślne usta
 - Jeśli tak, wysyła losową emotkę z listy
 - Czeka określony czas i powtarza proces
 - W konsoli wyświetla informacje o statusie
+
 
 *Uwaga: Używaj zgodnie z regulaminem Kick.com*
