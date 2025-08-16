@@ -35,9 +35,8 @@ W pliku `config.json` ustaw pod swoje preferencje bądź zachowaj domyślne usta
 
 1. Pobierz Pythona: [Link tutaj](https://www.python.org/downloads/)
 2. Zclonuj repozytorium `git clone` lub [pobierz stąd](https://github.com/blazejszhxk/kick-auto-points-collector/archive/refs/heads/main.zip)
-3. Wypakuj folder
-5. Zainstaluj zależności w CMD (terminalu): `pip install cloudscraper`
-6. Uruchom skrypt w CMD (terminalu) folderu: `python main.py`
+3. Zainstaluj zależności w CMD (terminalu): `pip install cloudscraper`
+4. Uruchom skrypt w CMD (terminalu) folderu: `python main.py`
 
 ## 📝 Jak to Działa
 
@@ -49,4 +48,5 @@ W pliku `config.json` ustaw pod swoje preferencje bądź zachowaj domyślne usta
 
 
 *Uwaga: Używaj zgodnie z regulaminem Kick.com*
+
 
