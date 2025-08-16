@@ -44,6 +44,8 @@ def cl_sm(nick):
         return True, random_message
         
     except Exception as e:
+        current_time = time.strftime("%H:%M:%S", time.localtime())
+        print(f"[{current_time}] Błąd podczas wysyłania wiadomości do {nick}: {str(e)}")
         return False
 
 def monitor(nick):
@@ -65,6 +67,8 @@ def monitor(nick):
             
             time.sleep(wait_time)
         except Exception as e:
+            current_time = time.strftime("%H:%M:%S", time.localtime())
+            print(f"[{current_time}] Błąd w monitorowaniu kanału {nick}: {str(e)}")
             time.sleep(config["wait_times"]["error_wait"])
 
 def main():
